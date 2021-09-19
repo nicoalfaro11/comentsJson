@@ -1,0 +1,24 @@
+[{
+    "score": 4,
+    "description": "Ya llevo un año con este auto y la verdad no tengo quejas",
+    "user": "juan_carlos",
+    "dateTime": "2020-02-25 18:03:52"
+},
+{
+    "score": 5,
+    "description": "Lo recomiento demasiado, alta comodidad y seguridad.",
+    "user": "maria_antonieta",
+    "dateTime": "2020-01-17 13:42:18"
+},
+{
+    "score": 3,
+    "description": "Buen auto, aunque econtre detalles a mejorar",
+    "user": "Yanina_Perez",
+    "dateTime": "2020-03-14 09:05:13"
+},
+{
+    "score": 5,
+    "description": "El auto de mis sueños!",
+    "user": "pablo_garcia",
+    "dateTime": "2020-02-21 15:05:22"
+}]

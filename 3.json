@@ -1,0 +1,24 @@
+[{
+    "score": 1,
+    "description": "Totalmente arrepentido con la compra de este auto",
+    "user": "Jose_Diaz",
+    "dateTime": "2020-02-25 18:03:52"
+},
+{
+    "score": 5,
+    "description": "Un auto muy comodo y a muy buen precio",
+    "user": "marta_casas",
+    "dateTime": "2020-01-17 13:42:18"
+},
+{
+    "score": 4,
+    "description": "Muy bueno, casi ninguna queja",
+    "user": "paula_salgado",
+    "dateTime": "2020-03-14 09:05:13"
+},
+{
+    "score": 3,
+    "description": "buend diseño, aunque mejoraria algunas cosas",
+    "user": "martin_gomez",
+    "dateTime": "2020-02-21 15:05:22"
+}]

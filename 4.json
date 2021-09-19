@@ -1,0 +1,24 @@
+[{
+    "score": 2,
+    "description": "No me gusto, ¿se puede devolver?",
+    "user": "Andy_rivera",
+    "dateTime": "2020-02-25 18:03:52"
+},
+{
+    "score": 5,
+    "description": "El mejor auto del mundo",
+    "user": "graciela_martinez",
+    "dateTime": "2020-01-17 13:42:18"
+},
+{
+    "score": 4,
+    "description": "Casi todo bien!, aunque el interior no me agrado demasiado",
+    "user": "romina_caceres",
+    "dateTime": "2020-03-14 09:05:13"
+},
+{
+    "score": 5,
+    "description": "Super comodo, me encanto",
+    "user": "Cristian_perez",
+    "dateTime": "2020-02-21 15:05:22"
+}]
